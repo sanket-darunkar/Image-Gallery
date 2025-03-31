@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-style: border-box;
+}
+#wrapper{
+    background-color: rgb(242, 233, 221);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    max-width: 400px;
+    background-color: white;
+    margin: 1em 2em;
+    border-radius: 1.5em;
+}
+.img{
+    max-width: 100%;
+}
